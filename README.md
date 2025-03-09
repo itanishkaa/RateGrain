@@ -17,6 +17,7 @@ Ensure you have Python installed, then install the required dependencies
 
 ### Running the Backend
 `cd backend`
+
 `python scrapper.py`
 
 ## Frontend (React)
@@ -24,6 +25,7 @@ Ensure you have Python installed, then install the required dependencies
 Ensure you have Node.js and npm installed, then install dependencies
 
 `cd frontend`
+
 `npm install`
 
 ### Running the Frontend
